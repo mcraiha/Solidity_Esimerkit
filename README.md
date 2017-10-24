@@ -7,3 +7,4 @@ Helpointa on avata selaimessa osoite [remix.ethereum.org](https://remix.ethereum
 ## Listaus
 1. [Yksinkertainen ostettava tuote](01-Yksinkertainen_ostettava_esine/README.md) esim. in-app purchase
 2. [Hieman enemmän toiminnallisuutta ostettavaan tuotteeseen](02-Toiminnallisempi_ostettava_esine/README.md)
+3. [Useampi ostettava esine samassa sopimuksessa](03-Useampi_ostettava_esine/README.md)
